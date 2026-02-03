@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Jagan — a Cloud / DevOps / Site Reliability Engineer with 5+ years of experience building secure, scalable cloud infrastructure. I work with AWS, Kubernetes, CI/CD, and Infrastructure as Code to improve system reliability, automation, and performance. Passionate about solving production issues, optimizing cloud systems, and building resilient platforms.
+Hi, I’m Jagan - a Cloud / DevOps / Site Reliability Engineer with 5+ years of experience building secure, scalable cloud infrastructure. I work with AWS, Kubernetes, CI/CD, and Infrastructure as Code to improve system reliability, automation, and performance. Passionate about solving production issues, optimizing cloud systems, and building resilient platforms.
 
 
 ## 🌐 Socials:
