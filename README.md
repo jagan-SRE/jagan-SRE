@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Jagan Pudari — a Cloud / DevOps engineer passionate about building reliable and scalable infrastructure.
+Hi, I’m Jagan Pudari - a Cloud / DevOps engineer passionate about building reliable and scalable infrastructure.
 
 I work with cloud platforms, container orchestration, and automation tools to deploy and manage modern applications. My focus is on improving system reliability, automating infrastructure, and building efficient CI/CD pipelines.
 
